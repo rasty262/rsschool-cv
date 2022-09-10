@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/rasty262/rsschool-cv/cv
+https://rasty262.github.io/rsschool-cv/cv
