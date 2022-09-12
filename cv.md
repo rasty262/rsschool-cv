@@ -25,7 +25,7 @@
 
 #### About me
 
-Im 42 years old. At the moment I have a working online store of climate goods, created on “Joomla!” CMS. I also support and promote the site by myself. Due to the war, the demand for air conditioners has fallen very much and I have a lot of free time. It was a reason why I decided start my self-education and spend this time learning Front-end technologies deeper. Of course, I was familiar with the basics, it helped me in customizing and supporting the site. Now, learning front end for me is a complex and amazingly interesting process that captivates me and gives me a hope for the future.
+I'm 42 years old. At the moment I have a working online store of climate goods, created on “Joomla!” CMS. I also support and promote the site by myself. Due to the war, the demand for air conditioners has fallen very much and I have a lot of free time. It was a reason why I decided start my self-education and spend this time learning Front-end technologies deeper. Of course, I was familiar with the basics, it helped me in customizing and supporting the site. Now, learning front end for me is a complex and amazingly interesting process that captivates me and gives me a hope for the future.
 
 ---
 
